@@ -1,7 +1,6 @@
 package learn;
 
 import com.cloudinary.Cloudinary;
-import com.cloudinary.EagerTransformation;
 import com.cloudinary.Transformation;
 import com.cloudinary.utils.ObjectUtils;
 import io.github.cdimascio.dotenv.Dotenv;
